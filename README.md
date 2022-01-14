@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Szeyi Chan. You can call me Reina. 
+- 👋 Hi, I’m Szeyi Chan but I go by Reina
 - 🏫 I am currently a CS Align graduate student at Northeastern University
 - 👀 I’m interested in the Software Engineering fiel
 - 🌱 I’m currently learning Java and C
